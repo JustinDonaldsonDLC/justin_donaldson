@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/justin_donaldson/static/css/main.f855e6bc.css",
+    "main.js": "/justin_donaldson/static/js/main.8d1204ef.js",
+    "static/js/453.37e09ab8.chunk.js": "/justin_donaldson/static/js/453.37e09ab8.chunk.js",
+    "static/media/Justin.png": "/justin_donaldson/static/media/Justin.6335cd23b1c47a7d9011.png",
+    "static/media/hotlhs.png": "/justin_donaldson/static/media/hotlhs.1c7fb192b3c91733f23b.png",
+    "static/media/PrivateAutoParts.png": "/justin_donaldson/static/media/PrivateAutoParts.266c7a80b88db29d7f37.png",
+    "static/media/LinkedIn_icon.svg.png": "/justin_donaldson/static/media/LinkedIn_icon.svg.9dfdc9701c0e1eb622bb.png",
+    "index.html": "/justin_donaldson/index.html",
+    "main.f855e6bc.css.map": "/justin_donaldson/static/css/main.f855e6bc.css.map",
+    "main.8d1204ef.js.map": "/justin_donaldson/static/js/main.8d1204ef.js.map",
+    "453.37e09ab8.chunk.js.map": "/justin_donaldson/static/js/453.37e09ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8d1204ef.js"
+  ]
+}
